@@ -1,1 +1,1 @@
-# distributed-word-vectors
+# distributional-word-vectors
